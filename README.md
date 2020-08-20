@@ -36,7 +36,7 @@ Her doğru veya yanlış cevap için uygun ses efekti kullanılmıştır. Aynı 
 
 ### Setup Dosyası
 
-[Bilgi Yarışması Setup](https://github.com/ahmetbrl38/Veritabansiz-Bilgi-Yarismasi/tree/master/Setup)
+[Bilgi Yarışması Setup](https://github.com/ahmetbrl38/Veritabansiz-Bilgi-Yarismasi/raw/master/Setup/BilgiYarismasiSetup.msi)
 
 ### Ekran Görüntüleri
 
