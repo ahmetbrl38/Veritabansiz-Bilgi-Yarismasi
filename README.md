@@ -4,7 +4,7 @@ Veritabansız bilgi yarışması 15 sorudan oluşan bir genel kültür testinden
 Projenin kaynak kodları ve setup dosyası aşağıdaki zip dosyasında mevcuttur.
 Her doğru veya yanlış cevap için uygun ses efekti kullanılmıştır. Aynı zamanda 11. soruya özel sesli ipucu bulunmaktadır.
 
-### Kullanılan kütüphaneler:
+### Kullanılan Kütüphaneler:
 
 ⇒ Windows Forms
 
