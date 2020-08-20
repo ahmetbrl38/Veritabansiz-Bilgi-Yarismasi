@@ -2,7 +2,7 @@
 # :book: Veritabansız Bilgi Yarışması
 Yaklaşık 400 satır kodla geliştirilmiş 15 soruluk bir bilgi yarışması.
 Veritabansız bilgi yarışması 15 sorudan oluşan bir genel kültür testinden oluşmaktadır. 
-Projenin kaynak kodları ve setup dosyası aşağıdaki zip dosyasında mevcuttur.
+Projenin kaynak kodları ve setup dosyası mevcuttur.
 Her doğru veya yanlış cevap için uygun ses efekti kullanılmıştır. Aynı zamanda 11. soruya özel sesli ipucu bulunmaktadır.
 
 ### Kullanılan Kütüphaneler:
