@@ -1,4 +1,5 @@
 ![Made with love in Turkey](https://madewithlove.now.sh/tr?heart=true&colorA=%23746d6d&template=for-the-badge)
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahmetbrl38&show_icons=true&hide_border=true" />
 # :book: Veritabansız Bilgi Yarışması
 Yaklaşık 400 satır kodla geliştirilmiş 15 soruluk bir bilgi yarışması.
 Veritabansız bilgi yarışması 15 sorudan oluşan bir genel kültür testinden oluşmaktadır. 
