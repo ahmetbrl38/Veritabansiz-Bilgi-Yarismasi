@@ -1,4 +1,4 @@
- 
+![Made with love in Turkey](https://madewithlove.now.sh/tr?heart=true&colorA=%23746d6d&template=for-the-badge)
 # :book: Veritabansız Bilgi Yarışması
 Yaklaşık 400 satır kodla geliştirilmiş 15 soruluk bir bilgi yarışması.
 Veritabansız bilgi yarışması 15 sorudan oluşan bir genel kültür testinden oluşmaktadır. 
